@@ -1,2 +1,1 @@
-# pythonSecJourney
-A journey about Information Security with Python.
+Yellow cat is here!🙀
